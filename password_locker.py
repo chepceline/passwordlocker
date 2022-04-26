@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import pyperclip
 from user_credentials import User, Credential
 
@@ -158,4 +159,5 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
 
